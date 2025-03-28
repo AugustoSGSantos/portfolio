@@ -9,42 +9,6 @@ const Projetos = () => (
       <li>
         <Projeto />
       </li>
-<<<<<<< HEAD
-=======
-      <li>
-        <Projeto />
-      </li>
-      <li>
-        <Projeto />
-      </li>
-      <li>
-        <Projeto />
-      </li>
-      <li>
-        <Projeto />
-      </li>
-      <li>
-        <Projeto />
-      </li>
-      <li>
-        <Projeto />
-      </li>
-      <li>
-        <Projeto />
-      </li>
-      <li>
-        <Projeto />
-      </li>
-      <li>
-        <Projeto />
-      </li>
-      <li>
-        <Projeto />
-      </li>
-      <li>
-        <Projeto />
-      </li>
->>>>>>> b273e7dc07582c7f5cd6b6316909aad5821294ba
     </Lista>
   </section>
 )

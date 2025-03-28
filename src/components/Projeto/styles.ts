@@ -1,6 +1,5 @@
 import styled from 'styled-components'
 
-<<<<<<< HEAD
 export const Container = styled.div`
   display: grid;
   grid-template-columns: repeat(2, 1fr); /* 2 colunas */
@@ -12,11 +11,6 @@ export const Card = styled.div`
   border: 1px solid ${(props) => props.theme.corDaBorda};
   padding: 16px;
   width: 325px;
-=======
-export const Card = styled.div`
-  border: 1px solid ${(props) => props.theme.corDaBorda};
-  padding: 16px;
->>>>>>> b273e7dc07582c7f5cd6b6316909aad5821294ba
 `
 
 export const LinkBotao = styled.a`
@@ -27,11 +21,8 @@ export const LinkBotao = styled.a`
   padding: 8px;
   display: inline-block;
   margin-top: 24px;
-<<<<<<< HEAD
   margin-right: 10px;
   &:last-child {
     margin-right: 0;
   }
-=======
->>>>>>> b273e7dc07582c7f5cd6b6316909aad5821294ba
 `

@@ -1,7 +1,6 @@
 import Paragrafo from '../Paragrafo'
 import Titulo from '../Titulo'
 
-<<<<<<< HEAD
 import { Card, LinkBotao, Container } from './styles'
 
 const Projeto = () => (
@@ -57,16 +56,6 @@ const Projeto = () => (
       </LinkBotao>
     </Card>
   </Container>
-=======
-import { Card, LinkBotao } from './styles'
-
-const Projeto = () => (
-  <Card>
-    <Titulo>Projeto Lista de tarefas</Titulo>
-    <Paragrafo tipo={'secundario'}>Lista de tarefas feita com VueJS</Paragrafo>
-    <LinkBotao>Visualizar</LinkBotao>
-  </Card>
->>>>>>> b273e7dc07582c7f5cd6b6316909aad5821294ba
 )
 
 export default Projeto
