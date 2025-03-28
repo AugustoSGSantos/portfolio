@@ -15,7 +15,15 @@
     "ecmaVersion": "latest",
     "sourceType": "module"
   },
+<<<<<<< HEAD
   "plugins": ["react", "@typescript-eslint", "react-hooks"],
+=======
+  "plugins": [
+    "react",
+    "@typescript-eslint",
+    "react-hooks"
+  ],
+>>>>>>> b273e7dc07582c7f5cd6b6316909aad5821294ba
   "rules": {
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
