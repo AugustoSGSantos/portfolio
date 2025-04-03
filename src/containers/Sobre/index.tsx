@@ -8,7 +8,7 @@ const Sobre = () => (
     <Paragrafo>
       Me chamo Augusto, tenho 23 anos, sou Desenvolvedor Front-End, as
       principais ferramentas que utilizo são React, JavaScript, Typescript. Sou
-      formado em Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul em
+      formado em Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul e em
       Engenharia Front-End pela EBAC. Estou em busca do meu primeiro emprego na
       área de desenvolvimento.
     </Paragrafo>
